@@ -1,3 +1,5 @@
 制作したソースコードを置いています。
-Python・Swiftにはそれぞれの言語で書かれたコード、
-webにはHTML・CSS・javascript・perl(cgi)・phpで書かれたコードがご覧になれます。
+
+Python・Swiftにはそれぞれの言語で書かれたコード
+
+WebにはHTML・CSS・javascript・perl(cgi)・phpで書かれたコードがご覧になれます。
